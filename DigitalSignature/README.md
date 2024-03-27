@@ -8,7 +8,7 @@ Signer and verifier need to have the same DSA parameters, which are `g`, `p`, `q
 
 To run the code locally:
 
-1. Download code.
+1. Download the code.
 2. Install the required dependencies by running:
     ```
     pip install pycryptodome
