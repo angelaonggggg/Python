@@ -1,4 +1,4 @@
-**Country Quiz**
+# Country Quiz
 
 Test your knowledge about countries and landmarks with this quiz.
 
