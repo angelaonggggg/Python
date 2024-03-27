@@ -1,2 +1,2 @@
 # Python
-These are projects developed using Python languages.
+These are projects developed using Python language.
