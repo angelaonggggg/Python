@@ -22,7 +22,7 @@ def run_server(local_ip, local_port):
         print("\n==========================================\n")
         print("Client sent a message...")
         print(f"Message: {data.decode('utf-8')}")
-        print("\n==========================================\n")
+        print("==========================================\n")
         message = input("Enter a message: ")
         print(f"Message sent: {message}")
         s.sendto(message.encode('utf-8'), address)
