@@ -22,7 +22,7 @@ To run the code locally:
 
 1. To execute the Python code, open terminal on the command prompt and navigate to the directory containing the files.
 
-2. On one terminal, run the following command for Alice (Server):
+2. On one terminal, run the following command:
     ```
     python3 main.py
     ```
