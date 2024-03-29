@@ -1,6 +1,6 @@
 # ChatBot
 
-ChatBot is a Python-based conversational agent that utilizes a knowledge base to respond to user queries. It allows users to interact with the chatbot by asking questions, which it will respond with pre-programmed answers. responses. Furthermore, the bot facilitates progressive learning by asking the user to respond to questions it is unable to answer on its own.
+ChatBot is a Python-based conversational agent that utilizes a knowledge base to respond to user queries. It allows users to interact with the chatbot by asking questions, to which it will respond with pre-programmed answers.. Furthermore, the bot facilitates progressive learning by asking the user to respond to questions it is unable to answer on its own.
 
 ## Features
 
