@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hi there!"
+    },
+    {
+      "question": "Who is the author of the Harry Potter series?",
+      "answer": "The author of the Harry Potter series is J.K. Rowling."
+    },
+    {
+      "question": "A list of activities to do",
+      "answer": "A list of activites you can consider are hiking, cycling, rock climbing and watching a movie."
+    }
+  ]
+}
