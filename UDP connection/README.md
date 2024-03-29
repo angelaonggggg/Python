@@ -1,4 +1,4 @@
-# Simple UDP Client-Server Communication
+# UDP Client-Server Communication
 
 This Python script demonstrates a simple UDP client-server communication using sockets between 2 parties. The script provides both client and server functionalities, allowing communication between them over a UDP connection.
 
